@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: BiS Loot Notifier
+## Notes: BiS Manager with Minimap Button
+## Author: Gemini
+## Version: 1.1
+## SavedVariables: BisLootSettings
+
+BisLootNotifier.lua
