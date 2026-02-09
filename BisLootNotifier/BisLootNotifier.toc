@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: BiS Loot Notifier
+## Notes: Saves your BiS list and alerts on drops.
+## Author: Gemini
+## Version: 1.5
+## SavedVariables: BisLootSettings
+
+BisLootNotifier.lua
